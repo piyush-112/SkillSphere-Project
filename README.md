@@ -149,7 +149,7 @@ See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Shubham Rokade: <br>
+Piyush Chaudhari: <br>
 [Linked-In](https://www.linkedin.com/in/piyushchaudhari112/) <br>
 [Link-Tree](https://linktr.ee/piyush112)
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
